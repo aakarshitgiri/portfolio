@@ -14,7 +14,7 @@ function Blog() {
     {
       image:blog6,
       title:"Next.js 15: The Future of Web Development",
-      description:"TNext.js continues redefining web development standards, and its 15th release introduces a wealth of new features, performance improvements, and breaking changes. With enhanced server components, optimized static generation, support for ESLint 9, and a host of breaking and non-breaking updates, Next.js 15 provides a more robust, streamlined development experience. This article dives deep into the critical updates, explaining their significance and how they shape the future of web development with Next.js.",
+      description:"The Next.js continues redefining web development standards, and its 15th release introduces a wealth of new features, performance improvements, and breaking changes. With enhanced server components, optimized static generation, support for ESLint 9, and a host of breaking and non-breaking updates, Next.js 15 provides a more robust, streamlined development experience. This article dives deep into the critical updates, explaining their significance and how they shape the future of web development with Next.js.",
       date:"October 23, 2024",
       link:"https://www.linkedin.com/pulse/nextjs-15-future-web-development-aakarshit-giri-erdqc/"
     },
