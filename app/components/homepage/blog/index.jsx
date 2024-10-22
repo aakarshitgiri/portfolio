@@ -8,7 +8,7 @@ import blog3 from '@/public/blogs/3.png';
 import blog4 from '@/public/blogs/4.png';
 import blog5 from '@/public/blogs/5.png';
 import blog6 from '@/public/blogs/6.png';
-import blog6 from '@/public/blogs/7.png';
+import blog7 from '@/public/blogs/7.png';
 
 function Blog() {
   const blogs = [
