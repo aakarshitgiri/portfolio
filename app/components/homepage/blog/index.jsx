@@ -8,9 +8,17 @@ import blog3 from '@/public/blogs/3.png';
 import blog4 from '@/public/blogs/4.png';
 import blog5 from '@/public/blogs/5.png';
 import blog6 from '@/public/blogs/6.png';
+import blog6 from '@/public/blogs/7.png';
 
 function Blog() {
   const blogs = [
+    {
+      image:blog7,
+      title:"Understanding React Hooks Beyond the Basics",
+      description:"As developers, we often dive into learning React Hooks without fully understanding their true purpose. We might know how to use hooks, but not why they exist or how to leverage them in real-world scenarios, especially when it comes to custom solutions. This gap is why many developers don’t immediately think of creating a custom hook to solve recurring problems.",
+      date:"October 23, 2024",
+      link:"https://www.linkedin.com/pulse/understanding-react-hooks-beyond-basics-aakarshit-giri-ibyzc/"
+    },
     {
       image:blog6,
       title:"Next.js 15: The Future of Web Development",
