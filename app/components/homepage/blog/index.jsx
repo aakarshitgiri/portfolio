@@ -11,6 +11,13 @@ import blog5 from '@/public/blogs/5.png';
 function Blog() {
   const blogs = [
     {
+      image:"https://media.licdn.com/dms/image/v2/D5612AQH6Cd9DDQH0TA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1729622811993?e=1735171200&v=beta&t=OYW1q1pVLmMlOANoGjPGxFV1E82DPQQrAs8J2mSUJzU",
+      title:"Next.js 15: The Future of Web Development",
+      description:"TNext.js continues redefining web development standards, and its 15th release introduces a wealth of new features, performance improvements, and breaking changes. With enhanced server components, optimized static generation, support for ESLint 9, and a host of breaking and non-breaking updates, Next.js 15 provides a more robust, streamlined development experience. This article dives deep into the critical updates, explaining their significance and how they shape the future of web development with Next.js.",
+      date:"October 23, 2024",
+      link:"https://www.linkedin.com/pulse/nextjs-15-future-web-development-aakarshit-giri-erdqc/"
+    },
+    {
       image:blog1,
       title:"My Journey into Learning Next.js: A 3-Month Transformation",
       description:"Three months ago, I hadn't even touched React.js, let alone Next.js. My background was firmly rooted in JavaScript, TypeScript, and Angular, where I was familiar with the fundamentals and had worked extensively. However, React.js and Next.js were completely new territories for me. This is the story of how I transitioned from having zero experience in React.js to gaining hands-on practice in Next.js, a framework that has significantly expanded my capabilities as a developer.",
