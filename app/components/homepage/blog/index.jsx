@@ -7,11 +7,12 @@ import blog2 from '@/public/blogs/2.png';
 import blog3 from '@/public/blogs/3.png';
 import blog4 from '@/public/blogs/4.png';
 import blog5 from '@/public/blogs/5.png';
+import blog6 from '@/public/blogs/6.png';
 
 function Blog() {
   const blogs = [
     {
-      image:"https://media.licdn.com/dms/image/v2/D5612AQH6Cd9DDQH0TA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1729622811993?e=1735171200&v=beta&t=OYW1q1pVLmMlOANoGjPGxFV1E82DPQQrAs8J2mSUJzU",
+      image:blog6,
       title:"Next.js 15: The Future of Web Development",
       description:"TNext.js continues redefining web development standards, and its 15th release introduces a wealth of new features, performance improvements, and breaking changes. With enhanced server components, optimized static generation, support for ESLint 9, and a host of breaking and non-breaking updates, Next.js 15 provides a more robust, streamlined development experience. This article dives deep into the critical updates, explaining their significance and how they shape the future of web development with Next.js.",
       date:"October 23, 2024",
