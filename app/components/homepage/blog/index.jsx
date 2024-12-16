@@ -9,9 +9,17 @@ import blog4 from '@/public/blogs/4.png';
 import blog5 from '@/public/blogs/5.png';
 import blog6 from '@/public/blogs/6.png';
 import blog7 from '@/public/blogs/7.png';
+import blog8 from '@/public/blogs/8.png';
 
 function Blog() {
   const blogs = [
+    {
+      image:blog8,
+      title:"Simplifying State Management in Next.js with Zustand: A Comprehensive Guide",
+      description:"State management is the backbone of modern web applications. Whether it’s managing a user’s authentication status, handling complex application logic, or persisting data across sessions, choosing the right state management library is crucial. For many developers working with Next.js, Zustand has emerged as a lightweight, powerful, and elegant solution. In this article, we’ll explore what makes Zustand stand out, how it simplifies state management, and why it might be a better fit than traditional tools like Redux or Context API for your Next.js projects.",
+      date:"December 16, 2024",
+      link:"https://www.linkedin.com/pulse/simplifying-state-management-nextjs-zustand-guide-aakarshit-giri-ch4nc/"
+    },
     {
       image:blog7,
       title:"Understanding React Hooks Beyond the Basics",
